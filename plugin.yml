@@ -1,0 +1,11 @@
+---
+name: JoinServerSpawn
+author:
+  - DevJblus
+version: 2.2.4
+api:
+  - 3.0.0
+main: DevJblus\JoinServerSpawn\Loader
+load: STARTUP
+description: Allows players to join spawn each time they join the server
+...
