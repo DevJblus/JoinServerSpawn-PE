@@ -9,7 +9,7 @@ change gamemode of players and other
 
 1. Import the plugins into your plugins folder (basic)
 
-2. execute the command / reload or redemarle the server (basic)
+2. execute the command /reload or redemarle the server (basic)
 
-3. Use the command / setworldspawn at the place where you wish spawn players to have each time they join the server
+3. Use the command /setworldspawn at the place where you wish spawn players to have each time they join the server
 
